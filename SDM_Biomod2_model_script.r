@@ -1,6 +1,6 @@
 # This file creates a presence/absence models and a abundance models for all selected species
 # The file delta_model_report.qmd creates a html-report of the created models
-
+#Ronny#
 # DATA PREPARATIONS ####
 ## Load packages ####
 library(dplyr) # Data handling
